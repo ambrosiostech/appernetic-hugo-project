@@ -5,4 +5,4 @@ title = "about"
 
 +++
 Ambrosios Tech 
-The technology for
+The technology for the future brought to you from the heavens
